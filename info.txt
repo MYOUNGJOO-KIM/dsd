@@ -1,2 +1,8 @@
 Title : 
 I’m going to debug my diet like a developer!
+
+20260205 (진행중) 안드로이드 APP 초기화
+ - 숫자 입력 및 대쉬보드 표시
+
+20260205 (진행중) 갤럭시 워치 APP 초기화
+ - 숫자 입력 및 대쉬보드 표시
